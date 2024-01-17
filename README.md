@@ -29,5 +29,6 @@ Each issue report is assigned one out of three possible labels: **bug**, **featu
 * **finetuning_distilbert_for_issue_classification.ipynb:** This notebook contains the code for fine-tuning a DistilBERT language model.
 * **sentence_transformer_for_issue_classification.ipynb:** This notebook contains the code for fine-tuning using the Few-shot learning approach on a sentence transformer.
 * **output:** The output folder contains all of the JSON output files from the different techniques.
+* **sota_results.json:** This JSON file contains the results from the baseline method.
 
-
+Each of the notebook contains a comparison of the model outputs with the SOTA results. The report for the project is included in the report folder.
